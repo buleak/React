@@ -26,7 +26,7 @@
     htmlparser2 "4.1.0"
     https-proxy-agent "5.0.0"
     lru-cache "6.0.0"
-    node-fetch "2.6.0"
+    node-fetch "2.6.1"
     normalize-html-whitespace "1.0.0"
     postcss "7.0.32"
     postcss-safe-parser "4.0.2"
@@ -900,9 +900,9 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@next/react-dev-overlay@9.5.3":
-  version "9.5.3"
-  resolved "https://registry.npm.taobao.org/@next/react-dev-overlay/download/@next/react-dev-overlay-9.5.3.tgz?cache=0&sync_timestamp=1599283128071&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40next%2Freact-dev-overlay%2Fdownload%2F%40next%2Freact-dev-overlay-9.5.3.tgz#3275301f08045ecc709e3273031973a1f5e81427"
+"@next/react-dev-overlay@9.5.4":
+  version "9.5.4"
+  resolved "https://registry.npm.taobao.org/@next/react-dev-overlay/download/@next/react-dev-overlay-9.5.4.tgz?cache=0&sync_timestamp=1599283128071&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40next%2Freact-dev-overlay%2Fdownload%2F%40next%2Freact-dev-overlay-9.5.4.tgz#3275301f08045ecc709e3273031973a1f5e81427"
   dependencies:
     "@babel/code-frame" "7.10.4"
     ally.js "1.4.1"
@@ -915,9 +915,9 @@
     stacktrace-parser "0.1.10"
     strip-ansi "6.0.0"
 
-"@next/react-refresh-utils@9.5.3":
-  version "9.5.3"
-  resolved "https://registry.npm.taobao.org/@next/react-refresh-utils/download/@next/react-refresh-utils-9.5.3.tgz?cache=0&sync_timestamp=1599283128193&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40next%2Freact-refresh-utils%2Fdownload%2F%40next%2Freact-refresh-utils-9.5.3.tgz#a14fb6489d412b201b98aa44716fb8727ca4c6ae"
+"@next/react-refresh-utils@9.5.4":
+  version "9.5.4"
+  resolved "https://registry.npm.taobao.org/@next/react-refresh-utils/download/@next/react-refresh-utils-9.5.4.tgz?cache=0&sync_timestamp=1599283128193&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40next%2Freact-refresh-utils%2Fdownload%2F%40next%2Freact-refresh-utils-9.5.4.tgz#a14fb6489d412b201b98aa44716fb8727ca4c6ae"
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
@@ -1691,7 +1691,7 @@ cross-fetch@3.0.5:
   version "3.0.5"
   resolved "https://registry.npm.taobao.org/cross-fetch/download/cross-fetch-3.0.5.tgz?cache=0&sync_timestamp=1592177883093&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcross-fetch%2Fdownload%2Fcross-fetch-3.0.5.tgz#2739d2981892e7ab488a7ad03b92df2816e03f4c"
   dependencies:
-    node-fetch "2.6.0"
+    node-fetch "2.6.1"
 
 crypto-browserify@3.12.0, crypto-browserify@^3.11.0:
   version "3.12.0"
@@ -2805,9 +2805,9 @@ next-tick@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/next-tick/download/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-next@9.5.3:
-  version "9.5.3"
-  resolved "https://registry.npm.taobao.org/next/download/next-9.5.3.tgz#7af5270631f98d330a7f75a6e8e1ac202aa155e2"
+next@9.5.4:
+  version "9.5.4"
+  resolved "https://registry.npm.taobao.org/next/download/next-9.5.4.tgz#7af5270631f98d330a7f75a6e8e1ac202aa155e2"
   dependencies:
     "@ampproject/toolbox-optimizer" "2.6.0"
     "@babel/code-frame" "7.10.4"
@@ -2828,8 +2828,8 @@ next@9.5.3:
     "@babel/preset-typescript" "7.10.4"
     "@babel/runtime" "7.11.2"
     "@babel/types" "7.11.5"
-    "@next/react-dev-overlay" "9.5.3"
-    "@next/react-refresh-utils" "9.5.3"
+    "@next/react-dev-overlay" "9.5.4"
+    "@next/react-refresh-utils" "9.5.4"
     ast-types "0.13.2"
     babel-plugin-syntax-jsx "6.18.0"
     babel-plugin-transform-define "2.0.0"
@@ -2869,9 +2869,9 @@ next@9.5.3:
     webpack "4.44.1"
     webpack-sources "1.4.3"
 
-node-fetch@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.npm.taobao.org/node-fetch/download/node-fetch-2.6.0.tgz?cache=0&sync_timestamp=1597048747435&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnode-fetch%2Fdownload%2Fnode-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
+node-fetch@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.npm.taobao.org/node-fetch/download/node-fetch-2.6.1.tgz?cache=0&sync_timestamp=1597048747435&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnode-fetch%2Fdownload%2Fnode-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
 
 node-html-parser@^1.2.19:
   version "1.2.20"
